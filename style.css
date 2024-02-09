@@ -282,6 +282,7 @@ section {
 .about-details-container {
   justify-content: center;
   flex-direction: column;
+  color: rgb(51, 51, 51);
 }
 
 .about-container,
